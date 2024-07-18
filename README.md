@@ -1,3 +1,3 @@
-# ricepurity.github.com
-Rice Purity Test
+# uwpurity.github.io
+UW Purity Test
 Heyo
